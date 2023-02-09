@@ -14,7 +14,7 @@ The collected data is preprocessed to prepare it for training the model. This in
 
 The model is trained using a deep learning technique, such as a recurrent neural network (RNN) or a transformer network. The model is trained on the preprocessed data, using the job description as input and the salary as the output.
 
-## Model Evaluation
+## Model Evaluation 
 
 The model is evaluated using metrics such as accuracy, precision, and recall. The model can also be tested on new job postings to predict their salaries.
 
